@@ -3,7 +3,7 @@ About r-r2jags
 
 Home: https://CRAN.R-project.org/package=R2jags
 
-Package license: GPL (>= 2)
+Package license: GPL-2.0-or-later
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-r2jags-feedstock/blob/master/LICENSE.txt)
 

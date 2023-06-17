@@ -1,11 +1,11 @@
-About r-r2jags
-==============
+About r-r2jags-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-r2jags-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=R2jags
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-r2jags-feedstock/blob/main/LICENSE.txt)
 
 Summary: Providing wrapper functions to implement Bayesian analysis in JAGS.  Some major features include monitoring convergence of a MCMC model using Rubin and Gelman Rhat statistics, automatically running a MCMC model till it converges, and implementing parallel processing of a MCMC model for multiple chains.
 

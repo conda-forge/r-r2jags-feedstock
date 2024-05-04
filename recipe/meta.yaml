@@ -1,4 +1,4 @@
-{% set version = "0.7-1.1" %}
+{% set version = "0.8-5" %}
 {% set posix = 'm2-' if win else '' %}
 {% set native = 'm2w64-' if win else '' %}
 
@@ -10,7 +10,7 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/R2jags_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/R2jags/R2jags_{{ version }}.tar.gz
-  sha256: d4c10ea87ce5456c5c3843cba03e47f088e5773733cfc17f287c5e86dc830d17
+  sha256: 71a81ff23632018af1cdc43a0d5016f221afa6ac06300f341913e14c6b2f09cd
 
 build:
   merge_build_host: true  # [win]

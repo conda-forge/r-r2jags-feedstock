@@ -9,6 +9,8 @@ Package license: GPL-2.0-or-later
 
 Summary: Providing wrapper functions to implement Bayesian analysis in JAGS.  Some major features include monitoring convergence of a MCMC model using Rubin and Gelman Rhat statistics, automatically running a MCMC model till it converges, and implementing parallel processing of a MCMC model for multiple chains.
 
+Development: https://github.com/suyusung/R2jags/
+
 Current build status
 ====================
 
